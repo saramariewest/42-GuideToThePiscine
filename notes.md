@@ -1,4 +1,4 @@
-# CTF Notes
+# Piscine Notes
 
 This file contains useful commands, tools, and techniques I frequently use when solving CTF challenges and working with the shell.
 
