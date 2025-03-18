@@ -107,5 +107,5 @@ This file contains useful commands, tools, and techniques I frequently use when 
   grep -r "keyword" /path/to/search  # Search recursively
   ```
 
-This list will be updated as I progress in CTF challenges and shell scripting.
+This list will be updated as I progress in the Piscine.
 
