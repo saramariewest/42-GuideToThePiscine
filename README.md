@@ -16,7 +16,6 @@ Welcome to 42-GuideToThePiscine. This repository documents my journey through th
 42-GuideToThePiscine/
  ├── exercises/   # My solutions for Piscine challenges
  |  ├── notes/       # Useful notes, commands, and explanations
- ├── scripts/     # Helpful scripts for automation
  ├── README.md    # This file
 ```
 
