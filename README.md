@@ -15,8 +15,8 @@ Welcome to 42-GuideToThePiscine. This repository documents my journey through th
 ```
 42-GuideToThePiscine/
  ├── EXAMPLE_project(xyz)/  # Projects I worked on during the Piscine
- |  ├── EXAMPLE_ex(num.)/   # My explanations and solutions for project challenges 
- ├── notes/       # Useful notes, commands, and explanations
+ |  ├── EXAMPLE_ex(num.)/   # My solutions for project challenges 
+ ├── notes/       # Useful notes and commands
  ├── README.md    # This file
 ```
 
