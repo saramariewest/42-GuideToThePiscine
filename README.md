@@ -14,9 +14,9 @@ Welcome to 42-GuideToThePiscine. This repository documents my journey through th
 ## Repository Structure
 ```
 42-GuideToThePiscine/
- ├── projects/    # A collection of the projects I worked on during the Piscine
- |  ├── exercises/   # My solutions for project challenges
- |  ├── notes/       # Useful notes, commands, and explanations
+ ├── EXAMPLE_project(xyz)/  # Projects I worked on during the Piscine
+ |  ├── EXAMPLE_ex(num.)/   # My explanations and solutions for project challenges 
+ ├── notes/       # Useful notes, commands, and explanations
  ├── README.md    # This file
 ```
 
