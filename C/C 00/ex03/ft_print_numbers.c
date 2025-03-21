@@ -1,9 +1,22 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_print_numbers.c                                 :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: swestpha <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2025/03/21 09:43:20 by swestpha          #+#    #+#             */
+/*   Updated: 2025/03/21 09:43:25 by swestpha         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <unistd.h>
 
-void ft_print_numbers(void)
+void	ft_print_numbers(void)
 {
-	char number = '0';
+	char	number;
 
+	number = '0';
 	while (number <= '9')
 	{
 		write(1, &number, 1);
@@ -11,9 +24,8 @@ void ft_print_numbers(void)
 	}
 }
 
-int main(void)
+int	main(void)
 {
-
 	ft_print_numbers();
-	return 0;
+	return (0);
 }
