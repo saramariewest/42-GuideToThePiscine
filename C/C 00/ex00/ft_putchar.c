@@ -6,7 +6,7 @@
 /*   By: swestpha <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/21 09:11:33 by swestpha          #+#    #+#             */
-/*   Updated: 2025/03/21 09:16:11 by swestpha         ###   ########.fr       */
+/*   Updated: 2025/03/24 09:32:12 by swestpha         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 
-int	main(void)
-{
-	ft_putchar('a');
-}
+// int	main(void)
+// {
+// 	ft_putchar('a');
+// }
